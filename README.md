@@ -16,4 +16,4 @@ For the implementation of the deep learning model the Physionet Challenge 2017 C
 The training accuracy is 94.95%. F1 score parameters have been calculated on the test set of the 2017 Physionet Computing in Cardiology challenge dataset. F1n score of ~91%, F1a score of ~79%, F1o and F1p scores of ~73% with an overall F1 score of 81% is obtained from the model. The accuracy score for the test set is 84.64%.
 
 
-The code will be made public as soon as the paper is put into public domain by IEEE (expected by mid-March)
+The code is now publicly available.

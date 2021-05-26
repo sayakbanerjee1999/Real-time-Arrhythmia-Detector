@@ -17,3 +17,6 @@ The training accuracy is 94.95%. F1 score parameters have been calculated on the
 
 
 The code is now publicly available.
+
+
+Link to the paper - https://ieeexplore.ieee.org/Xplore/home.jsp
